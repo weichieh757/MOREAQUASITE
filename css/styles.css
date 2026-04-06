@@ -868,3 +868,7 @@ textarea {
         font-size: 2.2rem;
     }
 }
+
+.line-float-btn:hover {
+    transform: scale(1.05) !important;
+}
